@@ -31,7 +31,7 @@ stations_metadata <-
     .url = configs$vegvesen_url
     ) 
 
-
+hhhhhhhhhhhhhh
 #### 2: Transforming metadata
 
 source("functions/data_transformations.r")
